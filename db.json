@@ -1,0 +1,32 @@
+{
+  "clienti": [
+    {
+      "nome": "Gianfranco Navas",
+      "email": "correo@correo.com",
+      "telefono": "3891282836",
+      "azienda": "Rapido",
+      "id": 1
+    },
+    {
+      "nome": "Marco Araya",
+      "email": "gianf2605@gmail.com",
+      "telefono": "33333333",
+      "azienda": "Puchos",
+      "id": 2
+    },
+    {
+      "nome": "Raul Mancini",
+      "email": "correo@correos.com",
+      "telefono": "2323232323",
+      "azienda": "Presto",
+      "id": 3
+    },
+    {
+      "nome": "Giorgio Simeone",
+      "email": "redujyc@mailinator.com",
+      "telefono": "434567897",
+      "azienda": "Undoliti",
+      "id": 4
+    }
+  ]
+}
